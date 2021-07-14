@@ -16,6 +16,9 @@ I am a Collection Analysis Librarian at Iowa State University, interested in tra
 
 <img align="left" alt="dimensions" src="https://img.shields.io/badge/dimensions-%23316192.svg?&style=for-the-badge&logo=dimensions&logoColor=white" />
 
+<img align="left" alt="latex" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
+
+
 <!--
 **eschares/eschares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
