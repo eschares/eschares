@@ -10,9 +10,9 @@ I am a Collection Analysis Librarian at Iowa State University, interested in tra
 <br>
 
 ## Expertise
-<img align="left" alt="jmp" src="https://img.shields.io/badge/jmp-%20-%2320232a.svg?&style=for-the-badge&logo=jmp&logoColor=%2361DAFB" />
+<img align="left" alt="jmp" src="https://img.shields.io/badge/jmp%20-%2320232a.svg?&style=for-the-badge&logo=jmp&logoColor=%2361DAFB" />
 
-<img align="left" alt="python" src="https://img.shields.io/badge/python-%20-%2343853D.svg?&style=for-the-badge&logo=python&logoColor=white" />
+<img align="left" alt="python" src="https://img.shields.io/badge/python%20-%2343853D.svg?&style=for-the-badge&logo=python&logoColor=white" />
 
 <img align="left" alt="dimensions" src="https://img.shields.io/badge/dimensions-%23316192.svg?&style=for-the-badge&logo=dimensions&logoColor=white" />
 
