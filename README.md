@@ -20,6 +20,8 @@ I am a Collection Analysis Librarian at Iowa State University, interested in tra
 
 <img align="left" alt="pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
 
+<img align="left" alt="arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+
 
 
 
