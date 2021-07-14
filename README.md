@@ -20,8 +20,6 @@ I am a Collection Analysis Librarian at Iowa State University, interested in tra
 
 <img align="left" alt="arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
 
-<img align="left" alt="raspberry pi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" />
-
 <img align="left" alt="jmp" src="https://img.shields.io/badge/jmp-%2320232a.svg?&style=for-the-badge&logo=jmp&logoColor=%2361DAFB" />
 
 <img align="left" alt="Unsub" src="https://img.shields.io/badge/Unsub-%23239dea.svg?&style=for-the-badge&logo=unsub&logoColor=white" />
@@ -29,6 +27,7 @@ I am a Collection Analysis Librarian at Iowa State University, interested in tra
 <!--
 
 <img align="left" alt="dimensions" src="https://img.shields.io/badge/dimensions-%23316192.svg?&style=for-the-badge&logo=dimensions&logoColor=white" />
+<img align="left" alt="raspberry pi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" />
 
 **eschares/eschares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
