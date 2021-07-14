@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am a Collection Analysis Librarian at Iowa State University, interested in 
 
 <!--
 **eschares/eschares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
