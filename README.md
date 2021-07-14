@@ -22,6 +22,7 @@ I am a Collection Analysis Librarian at Iowa State University, interested in tra
 
 <img align="left" alt="arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
 
+<img align="left" alt="raspberry pi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" />
 
 
 
