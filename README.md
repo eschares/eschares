@@ -24,11 +24,12 @@ I am a Collection Analysis Librarian at Iowa State University, interested in tra
 
 <img align="left" alt="jmp" src="https://img.shields.io/badge/jmp-%2320232a.svg?&style=for-the-badge&logo=jmp&logoColor=%2361DAFB" />
 
-<img align="left" alt="dimensions" src="https://img.shields.io/badge/dimensions-%23316192.svg?&style=for-the-badge&logo=dimensions&logoColor=white" />
-
 <img align="left" alt="Unsub" src="https://img.shields.io/badge/Unsub-%23239dea.svg?&style=for-the-badge&logo=unsub&logoColor=white" />
 
 <!--
+
+<img align="left" alt="dimensions" src="https://img.shields.io/badge/dimensions-%23316192.svg?&style=for-the-badge&logo=dimensions&logoColor=white" />
+
 **eschares/eschares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
