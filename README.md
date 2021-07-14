@@ -4,7 +4,10 @@ I am a Collection Analysis Librarian at Iowa State University, interested in tra
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eric-schares-9842989b/)
 
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/eschares)
+[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=jmp&logoColor=white" />](https://twitter.com/eschares)
+
+## Expertise
+
 
 <!--
 **eschares/eschares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
