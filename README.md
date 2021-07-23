@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Collection Analysis Librarian at Iowa State University, interested in transitioning our traditional journal spend toward more Open models.
+I am the Collection Analysis Librarian at Iowa State University, interested in transitioning our traditional journal spend toward more Open models.
 
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eric-schares-9842989b/)
