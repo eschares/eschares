@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am the Collection Analysis Librarian at Iowa State University, interested in transitioning our subscription journal spend toward more Open models.
+I am the Collection Analysis Librarian at Iowa State University, using data science to help transition our subscription journal spend toward more Open models.
 
 ## Connect with me
 [<img align="left" alt="website" src="https://img.shields.io/badge/website-%26%20CV-red?style=for-the-badge&logo=GitHub" />](https://eschares.github.io/)
