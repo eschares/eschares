@@ -15,11 +15,11 @@ I am the Collection Analysis Librarian at Iowa State University, using data scie
 ## Expertise
 <img align="left" alt="python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
 
+<img align="left" alt="pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+
 <img align="left" alt="latex" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
 
 <img align="left" alt="overleaf" src="https://img.shields.io/badge/overleaf-%2347a141.svg?style=for-the-badge&logo=overleaf&logoColor=white" />
-
-<img align="left" alt="pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
 
 <img align="left" alt="arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
 
