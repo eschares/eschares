@@ -6,7 +6,7 @@ I am the Collection Analysis Librarian at a midwest university in the United Sta
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eric-schares-9842989b/)
 
-[<img align="left" alt="bluesky" src="https://img.shields.io/badge/Bluesky-grey?style=for-the-badge&logo=bluesky"/>](https://bsky.app/profile/eschares.bsky.social)
+[<img align="left" alt="bluesky" src="https://img.shields.io/badge/Bluesky-lightgrey?style=for-the-badge&logo=bluesky"/>](https://bsky.app/profile/eschares.bsky.social)
 
 
 <br>
